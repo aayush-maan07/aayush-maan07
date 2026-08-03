@@ -97,7 +97,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aayush-maan07&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-maan2207&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-maan07&layout=compact&theme=tokyonight"/>
 
 </p>
 
