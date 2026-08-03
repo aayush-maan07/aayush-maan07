@@ -93,13 +93,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aayush-maan07&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-maan07&layout=compact&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
