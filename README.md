@@ -118,20 +118,6 @@ const aayush = {
 
 </p>
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/aayush-maan07/aayush-maan07/output/github-contribution-grid-snake-dark.svg)
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayush-maan07&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayush-maan07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 # 🌐 Connect With Me
