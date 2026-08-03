@@ -119,17 +119,17 @@ const aayush = {
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aayush-maan07&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-maan07&layout=compact&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-maan07&theme=tokyonight"/>
 
 </p>
 
