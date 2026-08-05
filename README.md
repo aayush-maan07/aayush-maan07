@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack MERN Developer • ☕ Java Programmer • 🚀 DSA Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Final+Year+Computer+Science+Student;Full+Stack+MERN+Developer;Java+%7C+JavaScript+Developer;Always+Learning+New+Things+🚀" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Final+Year+Computer+Science+Student;Full+Stack+MERN+Developer;Java+%7C+JavaScript+Developer;Always+Learning+New+Things+🚀" /> -->
 
 </div>
 
